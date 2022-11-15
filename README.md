@@ -1,7 +1,7 @@
 # Responsive_Website
 Site Link:  https://bheem2510.github.io/Responsive_Website/ <br>
 <br><br>
-##Responsive Home Page:<br><br>
+## Responsive Home Page:<br><br>
 ![alt text](https://github.com/bheem2510/Responsive_Website/blob/master/Responsive%20Screen.jpg)
 My Digital Garden:
 ==========================
