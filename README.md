@@ -1,6 +1,6 @@
 # Responsive_Website
-Site Link:  https://bheem2510.github.io/Responsive_Website/
-![alt text](https://github.com/bheem2510/Instagram-bot/blob/master/Responsive Screen.jpg)
+Site Link:  https://bheem2510.github.io/Responsive_Website/ <br>
+![alt text](https://github.com/bheem2510/Responsive_Website/blob/master/Responsive Screen.jpg)
 
 My Digital Garden:
 ==========================
