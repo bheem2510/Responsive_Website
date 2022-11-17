@@ -36,14 +36,12 @@
     float: left;
     height: 70px;
 }
-
 ul{
     float: left;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
 ul li{
     list-style: none;
     margin-left: 62px;
