@@ -2,7 +2,7 @@
     $host = "localhost:3308";  
     $user = "root";  
     $password = '';  
-    $db_name = "bheem";  
+    $db_name =  "bheem";  
       
     $con = mysqli_connect($host, $user, $password, $db_name);  
     if(mysqli_connect_errno()) {  
